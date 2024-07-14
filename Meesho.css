@@ -1,0 +1,361 @@
+#container{
+    width:99%;
+    height:70px;
+  /*  border:1px black solid; */
+    display:flex;
+    align-items:center;
+    font-style:normal;
+    font-weight:400;
+    font-size:16px;
+    Line-height:24px;
+    color:rgb(0,0,0);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+h1{
+    font-size:250%;
+    color:rgb(87,13,72);
+    margin-left:25%;
+}  
+#search-bar{
+    display:flex;
+    width:30%;
+    height:70%;
+    Line-height:24px;
+    font-size:36px;
+    font-weight:500;
+    margin-left:10%;
+    color:
+    #666666;
+    
+}  
+h2{
+    justify-content:center;
+    font-size:20px;
+    text-align:end;
+    color:
+    #666666;
+}
+
+#text{
+    width:90%;
+    align-items: end;
+    text-decoration-line:none;
+}
+#variety{
+    display:flex;
+    font-weight:600;
+    font-size:16px;
+    Line-height:20px;
+    
+}
+.ethnic{
+    width:99%;
+    height:35px;
+  /*  border:1px black solid; */
+    display:flex;
+    align-items:center;
+    font-style:normal;
+    font-weight:400;
+    font-size:16px;
+    Line-height:24px;
+    color:rgb(0,0,0);
+    justify-content:center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+a{
+    text-decoration:none;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style:normal;
+    font-weight:400;
+    font-size:17px;
+    Line-height:60px;
+    color:rgba(0, 0, 0, 0.852);
+    margin-right: 40px;
+}
+.diagram{
+    display:flex;
+    margin-top:45px;
+}
+#left{
+    display:block;
+    width:500px;
+    height:340px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left:220px;
+    justify-content:end;
+    background-color:  #f8f8ff;
+}
+#headline{
+margin-right:100px;
+height:150px;
+justify-content: right;
+color:
+#353543
+}
+#delivery{
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+    width:350px;
+    height:50px;
+    border-radius:10px;
+    margin-left:70px;
+    background-color:#ffffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+#logo{
+    margin-left:40px;
+    margin-inline-start: 30px;
+}
+#playstore{
+  width:260px;
+  height:40px;
+  padding-left:80px;
+  font-size:16px;
+  background-color:purple;
+  border-radius:5px;
+  box-shadow: rgba(105, 3, 213, 0.2) 0px 7px 29px 0px;
+}
+.top{
+    display:flex;
+    align-items:center;
+   /* border:1px solid blue; */
+    gap:12px;
+    justify-content:center;
+    height:44px;
+    font-weight:700;
+    font-size:36px;
+}
+#outer{
+    align-content:center;
+    margin-bottom:25px;
+}
+#inner{
+    color:
+    #353543;
+}
+#fashion{
+    border:1px solid black;
+    width:1000px;
+    height:500px;
+    background-color: 
+    #7c0060;
+    font-weight:600;
+    font-size:50px;
+    Line-height:30px;
+    padding-top:45px;
+    color:#fbffff;
+    margin-left:240px;
+    margin-right:60px;
+}
+#main{
+    width:350px;
+    height:400px;
+    margin-top:15px;
+    margin-left:15px;
+}
+.Essential{
+    display:flex;
+    background-image: url("https://images.meesho.com/images/marketing/1704720392370_1200.webp");
+    height:545px;
+    width:1000px;
+    margin-left:240px;
+    padding:0px;
+}
+#view{
+/* border:2px solid black; */
+align-content:center;
+width:100px;
+padding-left:80px;
+margin-left:30px;
+}
+#submit{
+width:130px;
+height:50px;
+border-radius:20px;
+font-size:20px;
+font-weight:400;
+justify-items: center;
+color:#fef0cf;
+background-color:
+#ff9600;
+
+}
+.image{
+    display:flex;
+  /*  border: 2px solid black; */
+    align-items:top;
+    width:400px;
+    height:450px;
+    justify-content:end;
+    padding-left:150px;
+    margin-top:80px;
+    margin-left:190px;
+}
+
+#initial{
+height:330px;
+width:160px;
+}
+#final{  
+height:60px;
+width:180px;
+justify-content: center;
+}
+.Picture{
+    background-image:url(https://images.meesho.com/images/marketing/1704720694167_1200.webp);
+    width:1050px;
+    height:545px;
+    margin-left:200px;
+    display:flex
+}
+#margin{
+ /*   border:2px solid black; */
+    align-content:center;
+    margin-left:80px;
+}
+#keyword{
+    width:110px;
+    height:50px;
+    border-radius:20px;
+    font-size:25px;
+    background-color: 
+    #ff9600;
+    color:
+    #fffaee;
+    font-weight:700;
+    padding-left:25px;
+    margin-left:20px;
+}
+#Electronics{
+    display:flex;
+  /*  border:2px solid black; */
+    width:620px;
+    height:400px;
+    margin-top:60px;
+    margin-left:170px;
+}
+#Shoes{
+    display:block;
+}
+#part1{
+    height:330px;
+    width:180px;
+}
+.Investment{
+    background-image:url(	https://images.meesho.com/images/pow/downloadBannerDesktop_1050.webp);
+    width:1000px;
+    height:550px;
+    margin-left:240px;
+    display:block;
+ }
+  #head{
+ /*  border:1px solid red; */
+ }
+  #Become{
+ /* border:2px solid blue; */
+  font-weight:500;
+  font-size:32px;
+  Line-height:40px;
+  color: #5585f8 ;
+  width:34%;
+  float:right; 
+  padding-left:350px;
+  margin-left:10%;
+  margin-top:60px;
+  height:40px;
+}
+ #Online{
+ /* border:3px solid yellow; */
+  font-weight:700;
+  font-size:48px;
+  Line-height:52px;
+  color:
+  #b2509f;
+  margin-right:40px;
+  float:right;
+  margin-bottom:40px;
+ }
+ #Store{
+ /* border:2px solid black; */
+display:flex;
+width:450px;
+float:right;
+margin-left:20px;
+} 
+#google{
+    width:180px;
+    height:50px;
+    border-radius:10px;
+    font-size:16px;
+    Font-weight:400;
+    Line-height:24px;
+
+} 
+#apple{
+    width:180px;
+    height:50px;
+    margin-left:10px;
+    border-radius:10px;
+    font-size:10px;
+    Font-weight:400;
+    Line-height:24px;
+} 
+.Register{
+    background-image:url("https://images.meesho.com/images/pow/supplyBannerDesktop_1106.webp");
+    color:#ffffff;
+    width:1100px;
+    height:290px;
+    margin-left:170px;
+}
+#Supplier{
+    font-weight:700;
+    font-size:32px;
+    Line-height:40px;
+    padding-top:30px;
+    margin-left:60px;
+    color:#ffffff;
+ /*  border:1px solid white; */
+
+}
+#Sell{
+font-weight:400;
+font-size:16px;
+Line-height:20px;
+margin-left:60px;
+color:#ffffff;
+/* border:1px solid white; */
+}
+.Grow{
+    display:flex;
+    gap:30px;
+    margin-left:60px;
+    padding-bottom:40px;
+  /*  border:2px solid black; */
+    width:80%;
+    height:20px;
+    align-items:center;
+    color:#ffffff;
+}
+#profit{
+  /*  border:1px solid white; */
+    height:10px;
+    padding-bottom:20px;
+    align-content:start;
+}
+#up{
+    font-weight:600;
+    font-size:18px;
+    Line-height:24px;
+    color:
+    #b2509f;
+    width:150px;
+    height:70px;
+    border-radius:10px;
+    margin-left:60px;
+    margin-bottom:60px;
+    padding-left:30px;
+    
+}
